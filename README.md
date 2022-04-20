@@ -21,4 +21,3 @@ installation instructions
 ![](https://github.com/ShalevL/Google-Clone/blob/main/screenshots/10.png)
 ![](https://github.com/ShalevL/Google-Clone/blob/main/screenshots/11.png)
 ![](https://github.com/ShalevL/Google-Clone/blob/main/screenshots/12.png)
-![](https://github.com/ShalevL/Google-Clone/blob/main/screenshots/13.png)
