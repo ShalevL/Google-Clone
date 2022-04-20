@@ -1,6 +1,10 @@
 Google-Clone By Shalev Lazarof.
 
-React, Redux & Tailwind CSS.
+Search a term and view websites, news, images and videos, toggle dark/light mode.
+
+React | Redux | Tailwind CSS
+
+https://google-clone-shalev-lazarof.netlify.app
 
 installation instructions
 1. Download zip and extract project folder
