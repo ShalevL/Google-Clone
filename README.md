@@ -1,10 +1,14 @@
 Google-Clone By Shalev Lazarof.
 
+https://google-clone-shalev-lazarof.netlify.app
+
 Search a term and view websites, news, images and videos, toggle dark/light mode.
 
 React | Redux | Tailwind CSS
 
-https://google-clone-shalev-lazarof.netlify.app
+API’s
+1. google search
+https://rapidapi.com/apigeek/api/google-search3/
 
 installation instructions
 1. Download zip and extract project folder
