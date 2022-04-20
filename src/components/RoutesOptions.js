@@ -6,8 +6,7 @@ function RoutesOptions() {
   return (
     <div className="p-4">
       <Routes>
-        <Route path="/" element={<Navigate replace to="/search" />} />
-        {["/search", "/images", "/news", "/videos"].map((path) => (
+        {["/", "/images", "/news", "/videos"].map((path) => (
           <Route key="Home" path={path} element={<Results />} />
         ))}
       </Routes>

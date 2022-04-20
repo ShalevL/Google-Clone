@@ -1,6 +1,7 @@
 import { createSlice, configureStore } from "@reduxjs/toolkit";
 
-export const GOOGLE_SEARCH_API_KEY = "";
+export const GOOGLE_SEARCH_API_KEY =
+  "8996225c5amsh21e7eaef7c64fbbp108f8ajsn2d3edfece8fe";
 
 const searchResultsSlice = createSlice({
   name: "searchResultsSlice",

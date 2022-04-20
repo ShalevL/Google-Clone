@@ -11,7 +11,7 @@ function Results() {
   const location = useLocation();
 
   switch (location.pathname) {
-    case "/search":
+    case "/":
       return (
         <div className="flex flex-wrap justify-between space-y-6 sm:px-56">
           {searchResults?.results.map(function (item, index) {
