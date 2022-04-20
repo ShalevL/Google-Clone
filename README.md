@@ -4,7 +4,7 @@ https://google-clone-shalev-lazarof.netlify.app
 
 Search a term and view websites, news, images and videos, toggle dark/light mode.
 
-React | Redux | Tailwind CSS
+Frameworks & Design: React | Redux | Tailwind CSS
 
 API’s
 1. google search
